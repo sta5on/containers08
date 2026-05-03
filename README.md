@@ -52,6 +52,9 @@ jobs:
 
 ```
 
+Workflow run:
+![](img/img777.png)
+
 
 
 ## Ответы на вопросы
